@@ -1,0 +1,11 @@
+// Variables
+@use 'variables';
+
+// Bootstrap
+//@use '~bootstrap/scss/bootstrap';
+@use 'bootstrap' as *;
+
+@use './custom.scss';
+
+// Fonts
+@import  url('https://fonts.googleapis.com/css?family=Nunito');
